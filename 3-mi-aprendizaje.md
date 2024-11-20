@@ -1,3 +1,2 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+# Mi aprendizaje 
+Antes de realizar esta actividad, no tenía conocimientos previos sobre la utilidad de Docker Compose. Sin embargo, después de completar la práctica, he aprendido que Docker Compose es una herramienta esencial para la gestión y orquestación de múltiples contenedores Docker de manera conjunta. Además, ahora entiendo cómo esta herramienta permite automatizar el proceso de construcción, configuración, conexión y ejecución de contenedores en un entorno de manera eficiente y estructurada.
